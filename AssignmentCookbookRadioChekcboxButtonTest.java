@@ -34,7 +34,7 @@ public class AssignmentCookbookRadioChekcboxButtonTest {
   @BeforeMethod
   public void beforeMethod() { 
 	  driver = new ChromeDriver();
-	  driver.get("http://www.cookbook.seleniumacademy.com/Config.html");
+	  
 	 }
   
 
